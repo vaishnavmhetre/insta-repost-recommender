@@ -10,8 +10,8 @@ DATABASE = {
 }
 
 INSTAGRAM_CONFIG = {
-    'username': 'fashionstreetig',
-    'password': "mahajan@123"
+    'username': 'your_instagram_username',
+    'password': "your_instagram_password"
 }
 
 MAX_CLIENTS = 150
